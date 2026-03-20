@@ -1,1 +1,29 @@
-{\n  "name": "haven-agent",\n  "version": "0.1.0",\n  "private": true,\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "14.2.3",\n    "react": "^18",\n    "react-dom": "^18",\n    "openai": "^4.47.1",\n    "axios": "^1.7.2",\n    "clsx": "^2.1.1"\n  },\n  "devDependencies": {\n    "typescript": "^5",\n    "@types/node": "^20",\n    "@types/react": "^18",\n    "@types/react-dom": "^18",\n    "tailwindcss": "^3.4.1",\n    "autoprefixer": "^10.4.19",\n    "postcss": "^8.4.38"\n  }\n}
+{
+  "name": "haven-agent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "^18",
+    "react-dom": "^18",
+    "openai": "^4.47.1",
+    "axios": "^1.7.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.400.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38"
+  }
+}
